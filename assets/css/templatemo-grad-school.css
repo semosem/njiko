@@ -261,11 +261,10 @@ a.menu-link { display: none; }
     font-weight: 800;
     color: #fff;
     padding-left: 69px;
-
 }
 .main-header .logo a em {
     font-style: normal;
-    color: #f5a425;
+    color: #483b01;
 }
 
 .main-menu {
@@ -426,7 +425,7 @@ a.menu-link { display: none; }
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #f5a425;
+  color: #493a04;
   font-weight: 900;
 }
 
@@ -1629,9 +1628,7 @@ footer p a:hover {
 }
   .logo-image {
     position: absolute;
-    /* margin-right: 1rem; */
     height: 80px;
-    /* width: 80px; */
     border-radius: 5%;
   }
 @media screen and (max-width: 992px) {
