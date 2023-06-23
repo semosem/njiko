@@ -227,7 +227,8 @@ a.menu-link { display: none; }
 }
 
 .main-header {
-    background-color: rgba(22,34,57,0.95);
+   /* background-image: url("../images/header_bg.jpeg"); */
+    background-color: rgba(183,183,164,.75);
     height: 80px;
     position: fixed;
     z-index: 12;
@@ -373,7 +374,7 @@ a.menu-link { display: none; }
 
 .video-overlay {
     position: absolute;
-    background-color: rgba(11, 4, 24, 0.85);
+    background-color: rgba(119, 112, 33, 0.69);
     top: 0;
     left: 0;
     bottom: 7px;
@@ -464,7 +465,7 @@ section.features .col-4 {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #0c1228;
+    background-color: rgba(183,183,164,.75);
   color: #fff;
   padding: 40px;
 }
